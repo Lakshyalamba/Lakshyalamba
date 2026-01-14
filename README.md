@@ -1,5 +1,29 @@
 # 👋 Hi, I’m Lakshya Choudhary
-🎓 Second-year B.Tech Computer Science student at Newton School of Technology<br>📍 From Charkhi Dadri, Haryana<br>💻 Full-stack developer | DSA enthusiast<br>🧠 Solved 350+ problems on LeetCode using Python<br>🛠️ Tech Stack: Node.js, React, JavaScript, HTML, CSS, MongoDB, MySQL<br>🌍 Actively contributing to open-source projects<br><br>🔭 Currently working on:<br>Full-stack applications and open-source contributions using modern web technologies.<br><br>👯 Looking to collaborate on:<br>Open-source projects and real-world full-stack development ideas.<br><br>🤝 Looking for help with:<br>Backend scalability, system design, and writing clean, maintainable code.<br><br>🌱 Currently learning:<br>Advanced DSA in Python and production-level backend architecture.<br><br>💬 Ask me about:<br>Full-stack development, DSA problem-solving, and open-source workflows.<br><br>⚡ Fun fact:<br>I enjoy solving DSA problems as much as building real-world products.
+🎓 Second-year B.Tech Computer Science student at Newton School of Technology  
+💻 Full-stack developer | DSA enthusiast  
+🧠 Solved 350+ problems on LeetCode using Python  
+🛠️ Tech Stack: Node.js, React, JavaScript, HTML, CSS, MongoDB, MySQL  
+🌍 Actively contributing to open-source projects  
+🤖 Working on AI/ML projects and concepts  
+
+🔭 Currently working on:  
+Full-stack applications, AI/ML projects, and open-source contributions using modern web technologies.
+
+👯 Looking to collaborate on:  
+Open-source projects, AI/ML-based ideas, and real-world full-stack development.
+
+🤝 Looking for help with:  
+Backend scalability, system design, AI/ML integration, and clean, maintainable code.
+
+🌱 Currently learning:  
+Advanced DSA in Python, production-level backend architecture, and AI/ML.
+
+💬 Ask me about:  
+Full-stack development, DSA problem-solving, AI/ML basics, and open-source workflows.
+
+⚡ Fun fact:  
+I enjoy solving DSA problems as much as building real-world products.
+
 
 
 # 💻 Tech Stack:
