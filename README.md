@@ -1,43 +1,27 @@
 # Hi, I’m Lakshya Choudhary
-
 I’m a second-year B.Tech Computer Science student at Newton School of Technology with a strong interest in building scalable software systems and intelligent applications.
-
 I have solved 350+ problems on LeetCode using Python, developing a solid foundation in Data Structures and Algorithms. I approach problem-solving with structured thinking, efficiency, and clean implementation.
 
-Technical Stack
-
+## Technical Stack:
 Languages & Backend: Python, Node.js
-
 Frontend: React, JavaScript, HTML, CSS
-
 Databases: MongoDB, MySQL
 
 Beyond full-stack development, I am actively exploring Artificial Intelligence and intelligent system design.
 
-Currently Learning
-
+## Currently Learning
 Generative AI and large language model applications
-
 Agentic AI systems and autonomous workflows
-
 System design and scalable backend architecture
-
 Data visualization and insight-driven dashboards
 
-Currently Working On
-
+## Currently Working On
 Full-stack applications with production-oriented architecture
-
 AI-driven projects integrating intelligent decision-making
-
 Open-source contributions
-
 Open to Collaborate On
-
 AI/ML and Generative AI projects
-
 Real-world full-stack systems
-
 Open-source initiatives
 
 I enjoy solving algorithmic challenges as much as building practical, real-world software, and I’m continuously working to bridge strong fundamentals with modern AI-driven innovation.
