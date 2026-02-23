@@ -1,29 +1,46 @@
-# 👋 Hi, I’m Lakshya Choudhary
-🎓 Second-year B.Tech Computer Science student at Newton School of Technology  
-💻 Full-stack developer | DSA enthusiast  
-🧠 Solved 350+ problems on LeetCode using Python  
-🛠️ Tech Stack: Node.js, React, JavaScript, HTML, CSS, MongoDB, MySQL  
-🌍 Actively contributing to open-source projects  
-🤖 Working on AI/ML projects and concepts  
+# Hi, I’m Lakshya Choudhary
 
-🔭 Currently working on:  
-Full-stack applications, AI/ML projects, and open-source contributions using modern web technologies.
+I’m a second-year B.Tech Computer Science student at Newton School of Technology with a strong interest in building scalable software systems and intelligent applications.
 
-👯 Looking to collaborate on:  
-Open-source projects, AI/ML-based ideas, and real-world full-stack development.
+I have solved 350+ problems on LeetCode using Python, developing a solid foundation in Data Structures and Algorithms. I approach problem-solving with structured thinking, efficiency, and clean implementation.
 
-🤝 Looking for help with:  
-Backend scalability, system design, AI/ML integration, and clean, maintainable code.
+Technical Stack
 
-🌱 Currently learning:  
-Advanced DSA in Python, production-level backend architecture, and AI/ML.
+Languages & Backend: Python, Node.js
 
-💬 Ask me about:  
-Full-stack development, DSA problem-solving, AI/ML basics, and open-source workflows.
+Frontend: React, JavaScript, HTML, CSS
 
-⚡ Fun fact:  
-I enjoy solving DSA problems as much as building real-world products.
+Databases: MongoDB, MySQL
 
+Beyond full-stack development, I am actively exploring Artificial Intelligence and intelligent system design.
+
+Currently Learning
+
+Generative AI and large language model applications
+
+Agentic AI systems and autonomous workflows
+
+System design and scalable backend architecture
+
+Data visualization and insight-driven dashboards
+
+Currently Working On
+
+Full-stack applications with production-oriented architecture
+
+AI-driven projects integrating intelligent decision-making
+
+Open-source contributions
+
+Open to Collaborate On
+
+AI/ML and Generative AI projects
+
+Real-world full-stack systems
+
+Open-source initiatives
+
+I enjoy solving algorithmic challenges as much as building practical, real-world software, and I’m continuously working to bridge strong fundamentals with modern AI-driven innovation.
 
 
 # 💻 Tech Stack:
