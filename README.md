@@ -10,7 +10,7 @@ Alongside software development, I am actively exploring **AI Engineering, Agenti
 
 ## Problem Solving
 
-I have solved **480+ LeetCode problems** and achieved an **1950+ contest rating**, which has strengthened my skills in:
+I have solved **520+ LeetCode problems** and achieved an **1980+ contest rating**, which has strengthened my skills in:
 
 * Data Structures & Algorithms
 * Problem Solving
